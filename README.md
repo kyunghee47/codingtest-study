@@ -20,30 +20,10 @@
 - **description**: 문제 주소 (option)
 
 ## ✅ 참여자
-| 참여자 | 진행도 |
-| --- | --- |
-| ![member1](https://github.com/kyunghee47.png?size=10) [@member1](https://github.com/kyunghee47) | 
-| ![member2](https://github.com/member2.png?size=10) [@member2](https://github.com/member2) |
+| 참여자 |  |  |
+| --- | --- | --- |
+| 굥히 |<img src="https://github.com/kyunghee47.png?size=1" width="50" height="50"> [@kyunghee47](https://github.com/kyunghee47) | 진행 중 |
+| 윤죵 |<img src="https://github.com/member2.png?size=1" width="50" height="50"> [@member2](https://github.com/member2) | 진행 중 |
 
-
-## Structure
-```plaintext
-coding-test-study/
-├── README.md
-├── .gitignore
-├── week1/
-│   ├── problem1/
-│   │   ├── solution.py
-│   │   └── README.md
-│   ├── problem2/
-│   │   ├── solution.py
-│   │   └── README.md
-│   └── ...
-├── week2/
-│   ├── problem1/
-│   │   ├── solution.py
-│   │   └── README.md
-│   └── ...
-└── ...
 
 
