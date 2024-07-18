@@ -10,20 +10,21 @@
 4. 이때 commit 규칙을 지키도록 한다!
 5. 원본 저장소로 Pull Request를 한다. (목요일 9시 디코에서)
 6. 자유롭게 코드리뷰를 한다.
+7. 브라우저에 백준 허브를 설치해 푸는 모든 문제에 대해 자동 푸시될 수 있도록 한다.
 
 
 ## ✅ 소스코드 파일 이름 규칙
 - 자유롭게 작성
 
 ## ✅ commit 규칙
-- **commit 메세지**: [문제 출처(플랫폼)] 문제이름 / 난이도 / 걸린시간
-- **description**: 문제 주소 (option)
+- **직접 메세지**: 예) [7월 3주차] 폴더 이동
+- **간접 메세지**: 백준 허브 생성 메세지
 
 ## ✅ 참여자
-| 참여자 |  |  |
-| --- | --- | --- |
-| 굥히 |<img src="https://github.com/kyunghee47.png?size=1" width="50" height="50"> [@kyunghee47](https://github.com/kyunghee47) | 진행 중 |
-| 윤죵 |<img src="https://github.com/member2.png?size=1" width="50" height="50"> [@member2](https://github.com/member2) | 진행 중 |
+| 프로필                                                                                                                            | 참여자 | 기간           |
+|--------------------------------------------------------------------------------------------------------------------------------|-----|--------------|
+| [<img src="https://github.com/kyunghee47.png?size=1" width="50" height="50">](https://github.com/kyunghee47)                   | 굥히  | 2024.07.11 ~ |
+| [<img src="https://avatars.githubusercontent.com/u/92416563?v=4?size=1" width="50" height="50">](https://github.com/Layton0-0) | 윤죵  | 2024.07.11 ~ |
 
 
 
